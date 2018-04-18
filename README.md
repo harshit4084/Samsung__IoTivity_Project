@@ -9,4 +9,4 @@ Descriprion: Device state can be changed based on certain scenes or situations.
 Reference: wiki.iotivity.org
 
 1. All the sample API are taken from iotivity.org. 
-2. Scene manager service in IoTivity stack is imlemented for smart home use case.
+2. Scene manager service in IoTivity stack is implemented for smart home use case.
